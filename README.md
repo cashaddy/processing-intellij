@@ -5,6 +5,10 @@ This repository contains an example [Processing 3](https://processing.org) proje
 ## Available Processing Versions:
 * 3.2.1 (default)
 * 3.1.1
+* 3.0.1
+* 2.2.1
+* 2.1.1
+* 2.0.3
 
 ## The project can be used in two steps:
 
