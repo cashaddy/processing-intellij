@@ -1,12 +1,12 @@
 # Using Processing 3 in IntelliJ IDEA
 
-## Available Processing versions:
+This repository contains an example [Processing 3](https://processing.org) project in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+
+## Available Processing Versions:
 * 3.2.1 (default)
 * 3.1.1
 
-This repository contains an example [Processing 3](https://processing.org) project in [IntelliJ IDEA](https://www.jetbrains.com/idea/).
-
-The project can be used in two steps:
+## The project can be used in two steps:
 
 1. Open the project in IntelliJ IDEA
 2. Add the same configuration you see on the screenshot
